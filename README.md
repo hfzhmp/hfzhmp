@@ -43,6 +43,7 @@ I'm passionate about solving real-world problems through code and building impac
 <img src="https://img.shields.io/badge/-Tailwind-06b2cf?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySql-31526b?style=flat-square&logo=mysql&logoColor=white" />
