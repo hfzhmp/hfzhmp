@@ -37,6 +37,7 @@ I'm passionate about solving real-world problems through code and building impac
 </p>
 
 <h2>🛠️ Languages and Tools</h2>
+<p align="left">
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-React-60d8f9?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/-Tailwind-06b2cf?style=flat-square&logo=tailwindcss&logoColor=white" />
